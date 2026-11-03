@@ -1,0 +1,12 @@
+# Requirements for: Troubleshooting Your Code (Roast Toast Coast Cafe)
+# Python 3.9+ recommended (tested on Python 3.12)
+
+# HTML parsing and CSS-selector matching used by the analyzer
+beautifulsoup4>=4.12
+
+# Tabular display of the findings report
+pandas>=2.0
+
+# Jupyter environment to open and run the .ipynb file
+notebook>=7.0
+ipykernel>=6.0
